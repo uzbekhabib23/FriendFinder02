@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": "app"
+		},
+		{
+			"path": "images-readme"
+		},
+		{
+			"path": "node_modules"
+		}
+	]
+}
